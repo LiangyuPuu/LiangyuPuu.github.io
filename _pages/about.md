@@ -12,7 +12,7 @@ I am a senior student studying in the [School of Logistics Engineering](https://
 
 Currently, I am working on further improving myself so that I can qualify for further studies. 
 
-Here you can see my [CV](https://github.com/LiangyuPuu/LiangyuPuu.github.io/blob/master/assets/PLY‘s CV.pdf).
+Here you can see my [CV](https://github.com/LiangyuPuu/LiangyuPuu.github.io/blob/master/assets/PLY%E2%80%98s%20CV.pdf).
 
 
 
