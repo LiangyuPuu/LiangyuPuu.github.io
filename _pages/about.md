@@ -14,6 +14,11 @@ Currently, I am working on further improving myself so that I can qualify for fu
 
 Here you can see my [CV](https://LiangyuPuu.github.io/assets/PLY%E2%80%98s%20CV.pdf).
 
+If you are interested in me, please contact me via Wechat or my email.
+
+My email address: larryply6@gmail.com
+
+[Click here to add my wechat](https://LiangyuPuu.github.io/images/wechat.jpg)
 
 
 <!-- A data-driven personal website
